@@ -1,1 +1,1 @@
-JAVA DSA problems 
+DSA problems 
